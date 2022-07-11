@@ -55,7 +55,13 @@ Participants are expected to have access to the internet and a personal computer
 3. GitHub Overview, markdown, pull requests, repositories, collaboration
 4. Sequence file formats, quality control, mapping, genome assembly, sequence alignments visualization
 
+## Application procedure
+Fill [this online](https://forms.gle/sTA7SzrtMtaRo6C38) application form to apply.
+
 ## Organizers
+
 1. Mike Mwanga
 2. Alphaxand Kaimba
 3. Brenda Kamau
+
+Send us your queries and comments bioi4.pubrec@gmail.com
