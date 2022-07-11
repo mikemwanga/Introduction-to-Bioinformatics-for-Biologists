@@ -49,9 +49,11 @@ Participants are expected to have access to the internet and a personal computer
 4. Introduction to Next-generation sequencing and sequence analysis
 	Overview of sequencing, sequencing technologies (Illumina, Sanger, ONT), sequence assemblies, basics of multiple sequence alignments theory
 
-5. Practical Outline
-	NCBI overview, Database searching, BLAST search, Linux commands, file manipulation, project file system, GitHub Overview, markdown, pull requests, repositories, collaboration \
-	Sequence file formats, quality control, mapping, genome assembly, sequence alignments visualization
+### Practical Outline
+1. NCBI overview, Database searching, BLAST search, 
+2. Linux commands, file manipulation, project file system
+3. GitHub Overview, markdown, pull requests, repositories, collaboration
+4. Sequence file formats, quality control, mapping, genome assembly, sequence alignments visualization
 
 ## Organizers
 1. Mike Mwanga
