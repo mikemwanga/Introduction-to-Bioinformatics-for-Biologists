@@ -56,7 +56,7 @@ Participants are expected to have access to the internet and a personal computer
 4. Sequence file formats, quality control, mapping, genome assembly, sequence alignments visualization
 
 ## Application procedure
-Fill [this online](https://forms.gle/sTA7SzrtMtaRo6C38) application form to apply.
+Submit your application using [this online application](https://forms.gle/sTA7SzrtMtaRo6C38)
 
 ## Organizers
 
