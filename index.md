@@ -3,7 +3,7 @@
 ## Course Overview
 This short course aims to provide an introduction to the field of bioinformatics, targeting research students with basic knowledge in this field. The course will be delivered using a combination of theoretical and practical sessions for participants to gain hands-on experience in using various bioinformatics tools and methods. This will support the ongoing initiatives in building capacity in Low-Middle Income Countries (LMICs) and developing future leaders in research.
 
-## Expected learning outcomesa
+## Expected learning outcomes
 After this course, participants should be able to;
 Have an overview of the most important bioinformatics methods and tools 
 Comfortably use main bioinformatics databases such as NCBI
@@ -16,13 +16,13 @@ Understand sequencing technologies and perform basic sequence analysis using exi
 25 – 29 July 2022, 9 am – 5 pm
 
 ## Course Venue
-Pwani University Bioscience Research Center (PUBReC Boardroom)
+Pwani University Bioscience Research Center (PUBReC)
 
 ## Mode of Delivery
-Virtual (Zoom/KENET, slack) and one-on-one practicals
+Virtual and one-on-one practicals at Pwani University Bioscience Research Center (PUBReC)
 
 ## Intended Audience
-This course is intended for Pwani University students (already identified 10 students) who are currently (or in the future) undertaking research in biological sciences and will generate data whose analysis requires bioinformatics tools and skills. A baseline understanding of the central dogma is recommended. 
+This course is intended for students undertaking research in biological sciences and will generate data whose analysis requires bioinformatics tools and skills. A baseline understanding of the central dogma is recommended. 
 
 ## Participating institutions
 Pwani University
@@ -32,7 +32,7 @@ Students will be equipped with basic skills in bioinformatics. This will form th
 A certificate of participation and facilitation will be offered.
 
 ## Requirements
-Participants are expected to have access to the internet and a personal computer, preferably running on Linux. Required tools and software will be communicated prior to the training.
+Participants are expected to have access to the internet and a personal computer, preferably running on Linux. Required tools and software will be availed prior to the training.
 
 ## Course Syllabus
 
