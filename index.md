@@ -58,6 +58,9 @@ Participants are expected to have access to the internet and a personal computer
 ## Application procedure
 Submit your application using [this online application](https://forms.gle/sTA7SzrtMtaRo6C38)
 
+## Application deadline
+July, 21 2022
+
 ## Organizers
 
 1. Mike Mwanga
